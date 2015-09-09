@@ -2,4 +2,7 @@ I made a joke
 Add a new line from PracticeRepo_cloned
 \nAdd 2nd line from PracticeRepo_cloned
 Add 1 line on branch chapter-two.
-Add an extra line on master.
+
+Merge again after reset.
+Keep lines on master branch 
+Abandon lines on branch chapter-two.
